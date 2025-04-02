@@ -4,7 +4,7 @@
 <img src="https://github.com/gabscarlos/kino/raw/main/.gitassets/capa.png" width="350" />
 
 <div data-badges>
-  <img src="https://img.shields.io/github/gabscarlos/kino?style=for-the-badge" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/stars/gabscarlos/kino?style=for-the-badge" alt="GitHub stars" />
   <img src="https://img.shields.io/github/forks/gabscarlos/kino?style=for-the-badge" alt="GitHub forks" />
   <img src="https://img.shields.io/github/issues/gabscarlos/kino?style=for-the-badge" alt="GitHub issues" />
 </div>
