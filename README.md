@@ -53,7 +53,7 @@ Além disso, a plataforma sugere automaticamente outras produções que comparti
 
 4. Configure as variáveis de ambiente:
 
-   Será necessário criar um arquivo `.env` com as mesmas variáveis de ambiente listadas no arquivo `.env.example` na pasta raiz da aplicação e preencher esse arquivo com as variáveis de ambiente correspondentes.
+   Será necessário criar um arquivo `.env` com as mesmas variáveis de ambiente listadas no arquivo `.env-sample` na pasta raiz da aplicação e preencher esse arquivo com as variáveis de ambiente correspondentes.
 
 5. Inicie o servidor (Next.js):
 
