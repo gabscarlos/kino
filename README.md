@@ -1,12 +1,12 @@
 # 🎬 Kino
 
 <div align="center">
-<img src="https://github.com/portfolio-projetos-dev/kino/raw/main/.gitassets/capa.png" width="350" />
+<img src="https://github.com/gabscarlos/kino/raw/main/.gitassets/capa.png" width="350" />
 
 <div data-badges>
-  <img src="https://img.shields.io/github/stars/portfolio-projetos-dev/kino?style=for-the-badge" alt="GitHub stars" />
-  <img src="https://img.shields.io/github/forks/portfolio-projetos-dev/kino?style=for-the-badge" alt="GitHub forks" />
-  <img src="https://img.shields.io/github/issues/portfolio-projetos-dev/kino?style=for-the-badge" alt="GitHub issues" />
+  <img src="https://img.shields.io/github/gabscarlos/kino?style=for-the-badge" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/forks/gabscarlos/kino?style=for-the-badge" alt="GitHub forks" />
+  <img src="https://img.shields.io/github/issues/gabscarlos/kino?style=for-the-badge" alt="GitHub issues" />
 </div>
 
 <div data-badges>
@@ -76,11 +76,11 @@ Além disso, a plataforma sugere automaticamente outras produções que comparti
 - Recomendações de filmes relacionados
 - Interface responsiva e moderna
 
-![](https://github.com/portfolio-projetos-dev/kino/raw/main/.gitassets/2.jpg)
+![](https://github.com/gabscarlos/kino/raw/main/.gitassets/2.jpg)
 
-![](https://github.com/portfolio-projetos-dev/kino/raw/main/.gitassets/3.jpg)
+![](https://github.com/gabscarlos/kino/raw/main/.gitassets/3.jpg)
 
-![](https://github.com/portfolio-projetos-dev/kino/raw/main/.gitassets/4.jpg)
+![](https://github.com/gabscarlos/kino/raw/main/.gitassets/4.jpg)
 
 ## 💎 Links úteis 💎
 
