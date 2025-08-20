@@ -36,7 +36,7 @@ Além disso, a plataforma sugere automaticamente outras produções que comparti
 1. Clone este repositório:
 
    ```sh
-   git clone https://github.com/portfolio-projetos-dev/kino
+   git clone https://github.com/gabscarlos/kino
    ```
 
 2. Acesse o diretório do projeto:
